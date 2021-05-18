@@ -10,9 +10,9 @@ steps:
 for 4th step, create a new folder e.g node-server. then cd node-server in the terminal. then npm init. fill as desired .then write in the terminal npm i socket.io@2.3.0 , this will create the modules and the desired dependencies. 
 
 resources used: 
-1. ting.mpe
+1. ting.mp3
 2. wp4854104 is the background wallpaper
-3. fontawesome for the logo.
+3. fontawesome.com for the logo.
 
 P.S. use the ports cautiously 
 
